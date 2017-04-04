@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/fnurichard/.android/build-cache/1d950b86949406435b1214d1d62f90dced7dc746/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/fnurichard/Documents/android/AppSafe/app/build/intermediates/pre-dexed/debug/classes_09b628705c2ae0a8a462d469494563fb9abc6afc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fnurichard/Desktop/AndroidApp/AppSafe/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8020a716df1e476efb42e97f2b727ae70ce5c554">
+        <dex dex="/Users/fnurichard/Desktop/AndroidApp/AppSafe/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d0441bad12bfbc54b589a72525815e5881b434ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fnurichard/.android/build-cache/80df7fc8f8c7e2f7f550d70a900832223d39d3a1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/fnurichard/Documents/android/AppSafe/app/build/intermediates/pre-dexed/debug/classes_eec2d9faee25902bc4acfa93508dc0d4ceaa14f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fnurichard/.android/build-cache/672620b1f47dc5e5030a048f92bdab44fbef0d66/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/fnurichard/Documents/android/AppSafe/app/build/intermediates/pre-dexed/debug/classes_63f61c2bb40754d839ad641def4b6324e9ac9136.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fnurichard/.android/build-cache/6241e03c720647fd6f3b7a71dd4f596e1c9578d1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/fnurichard/Documents/android/AppSafe/app/build/intermediates/pre-dexed/debug/classes_a71a73199c7ae22ef4e41f8dd77ada235ee646aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fnurichard/.android/build-cache/2d8ea5fbb0f086ec300c73a62104f2ac791b3297/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/fnurichard/Documents/android/AppSafe/app/build/intermediates/pre-dexed/debug/classes_2a15d273a85c088e61d8a0335ce16b9a06a710a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fnurichard/.android/build-cache/e9722207e783de061d82174daef47a5d8556908c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/fnurichard/Documents/android/AppSafe/app/build/intermediates/pre-dexed/debug/classes_1dbfbfb9579affd46c6461ff5106213aed9e4a15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fnurichard/.android/build-cache/ef73ad1eb0d15ae5ab1cc5986af9685923def23e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/fnurichard/Documents/android/AppSafe/app/build/intermediates/pre-dexed/debug/classes_7ab8d12c546e85de56fb37f6b37e5edc3ed3ad42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fnurichard/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/fnurichard/Documents/android/AppSafe/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_5c4cf3e460089a730339d3e53e89ca1ba749ca44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fnurichard/.android/build-cache/99eac08b7ad6cbb9006ccaf0c5e6d29732ffbec7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/fnurichard/Documents/android/AppSafe/app/build/intermediates/pre-dexed/debug/classes_9a91b82dd8fc41b841dd1fe9d171ec8a5c372c3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fnurichard/.android/build-cache/5d28668cb919cb5ad416f6f75c3c6e43d9835bfa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/fnurichard/Documents/android/AppSafe/app/build/intermediates/pre-dexed/debug/classes_7f79cc892db559a244afcc765490107254bfbf41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fnurichard/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/fnurichard/Documents/android/AppSafe/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_88f131b77620ae2ad2f64b04cc290f7b95d95a4c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fnurichard/Desktop/AndroidApp/AppSafe/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/fnurichard/Desktop/AndroidApp/AppSafe/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c91b739a509baec4ee67172926d42f9894e8d9e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fnurichard/.android/build-cache/edbc14572477dbb276a3454fd293c407ee382073/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/fnurichard/Documents/android/AppSafe/app/build/intermediates/pre-dexed/debug/classes_16ed206921b8a0c55f11bf8b74de284be2427177.jar" />
+    </item>
+
+</items>
